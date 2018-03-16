@@ -1,3 +1,7 @@
+/**
+ * Autor: Marcelo Rezin
+ */
+
 package tela;
 
 import arquivo.Arquivo;

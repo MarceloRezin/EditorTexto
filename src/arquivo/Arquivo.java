@@ -1,3 +1,7 @@
+/**
+ * Autor: Marcelo Rezin
+ */
+
 package arquivo;
 
 import javax.swing.*;
